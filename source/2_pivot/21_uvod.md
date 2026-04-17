@@ -1,26 +1,26 @@
-# Пивот табеле 
+# Pivot Tables
 
-Пивот табела је један од најважнијих алата за анализу података у програмима као што су *Microsoft Excel* и *Google Sheets*. Она омогућава да исте податке „окренемо“ (pivot = окренути) и прикажемо их на нов начин - да их групишемо, пребројимо, израчунамо просеке или упоредимо категорије, без мењања оригиналне табеле. Уместо ручног пребројавања и прављења више помоћних табела, пивот табела омогућава да се одговори добију брзо, прецизно и прегледно. 
+A pivot table is one of the most important tools for data analysis in programs like *Microsoft Excel* and *Google Sheets*. It allows us to “pivot” the same data (pivot = to turn) and present it in a new way—to group, count, calculate averages, or compare categories, without changing the original table. Instead of manually counting and making multiple helper tables, a pivot table enables us to get answers quickly, accurately, and clearly.
 
 ```{infonote}
-У кошарци, пивот је играч који једном ногом остаје на месту, а окретањем тела може да дода лопту у различитим правцима. Слично томе, пивот табела користи исте податке, али их „окреће“ и реорганизује тако да их можемо посматрати из различитих углова, у зависности од тога шта желимо да сазнамо.
+In basketball, a pivot is a player who keeps one foot in place and turns their body to pass the ball in different directions. Similarly, a pivot table uses the same data but “turns” and reorganizes it so we can view it from different angles, depending on what we want to find out.
 ```
-Радница у продавници воћа сваког дана бележи сваку продају у табели. За сваку куповину записала је следеће податке:
+An employee in a fruit store records every sale in a table each day. For each purchase, she notes the following data:
 
-![Tabela - prodaja voća](images/table2_sr.png)
+![Table - fruit sales](images/table2_sr.png)
 
-Ово су сирови подаци. Из њих не можемо одмах да добијемо одговор на питање, на пример, *Које воће се највише продаје?* или *Да ли купци чешће плаћају готовином или картицом?*
+These are raw data. From them, we cannot immediately get answers to questions like, for example, *Which fruit sells the most?* or *Do customers pay more often with cash or card?*
 
-## Разлика између обичне и пивот табеле
+## The Difference Between a Regular and a Pivot Table
 
-У обичној табели можемо да видимо сваку појединачну продају, али ако желимо да сазнамо, на пример, укупну количину продатог воћа сваке врсте, морали бисмо ручно да пронађемо све редове са јабукама и саберемо количине, затим банане, па поморанџе... Код већег броја редова то одузима време и лако долази до грешке.
+In a regular table, we can see each individual sale, but if we want to know, for example, the total quantity sold of each type of fruit, we would have to manually find all the rows with apples and sum the quantities, then bananas, then oranges... With a larger number of rows, this takes time and errors are likely.
 
-**Пивот табела аутоматски организује и сабира податке.** На пример:
+**A pivot table automatically organizes and sums the data.** For example:
 
-![Pivot tabela - prodaja voća](images/table3_sr.png)
+![Pivot table - fruit sales](images/table3_sr.png)
 
-Овакав приказ омогућава да одмах видимо резултате, без ручног сабирања и без формула.
+This kind of display allows us to immediately see the results, without manual summing and without formulas.
 
 ```{infonote}
-Обична табела приказује појединачне податке. Пивот табела приказује њихов преглед и омогућава анализу.
+A regular table shows individual data. A pivot table shows their summary and enables analysis.
 ```

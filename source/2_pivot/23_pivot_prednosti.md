@@ -1,35 +1,39 @@
-# Да резимирамо...
 
-## Предности коришћења пивота
+# To Summarize...
 
-- **Брзина анализе** - Уместо ручног сабирања и писања формула, довољно је да превучемо поља и одмах добијамо збир, просек, број или проценат.
 
-- **Флексибилност** - Исте податке можемо да посматрамо по различитим критеријумима (нпр. по данима, по производима, по одељењима) без прављења нових табела.
+## Advantages of Using Pivot Tables
 
-- **Нема ручних формула** - Пивот табела сама прави прорачуне, што смањује могућност грешке.
+- **Speed of analysis** – Instead of manual summing and writing formulas, it’s enough to drag fields and immediately get the sum, average, count, or percentage.
 
-- **Аутоматско ажурирање** - Када се промене подаци у почетној табели, довољно је кликнути на *Refresh* и сви резултати се аутоматски ажурирају.
+- **Flexibility** – The same data can be viewed by different criteria (e.g., by days, by products, by departments) without making new tables.
 
-- **Једноставно филтрирање података** - Можемо приказати само део података који нас занима (нпр. једно одељење, један производ, један дан).
+- **No manual formulas** – The pivot table does the calculations itself, reducing the chance of errors.
 
-- **Директна визуелизација** - Из пивот табеле се једним кликом прави графикон који се такође аутоматски ажурира.
+- **Automatic updating** – When data in the original table changes, just click *Refresh* and all results are updated automatically.
 
-- **Откривање образаца** - Лако уочавамо шта је највише заступљено, где је највећа вредност, како се подаци мењају кроз време.
+- **Easy data filtering** – You can display only the part of the data you are interested in (e.g., one department, one product, one day).
 
-- **Професионални алат** - Пивот се користи у фирмама за анализу продаје, трошкова, резултата анкета и других великих скупова података.
+- **Direct visualization** – From the pivot table, you can create a chart with one click, which is also updated automatically.
 
-## Честе грешке
+- **Pattern discovery** – It’s easy to spot what is most common, where the highest value is, and how data changes over time.
 
-Да би резултати били тачни, важно је да избегнемо грешке. Приликом креирања пивот табеле, обавезно обратите пажњу на следеће:
+- **Professional tool** – Pivot tables are used in companies for analyzing sales, costs, survey results, and other large data sets.
 
-- **Недоследно писање вредности** - Исти податак написан на различите начине (нпр. Јабука, јабука, Jabuka) биће приказан као три различите ставке.
 
-- **Недостају називи колона** - Без јасних назива пивот табела не зна шта треба да анализира.
+## Common Mistakes
 
-- **Ручно мењање пивот табеле** - Унутар пивот табеле не сме се додатно ништа уписивати – све промене се раде у почетној табели.
 
-- **Заборављено освежавање (*Refresh*)** - После измене података потребно је кликнути на Refresh да би резултати били тачни.
+To get accurate results, it’s important to avoid mistakes. When creating a pivot table, always pay attention to the following:
+
+- **Inconsistent value entry** – The same data written in different ways (e.g., Apple, apple, APPLE) will be shown as three different items.
+
+- **Missing column names** – Without clear names, the pivot table doesn’t know what to analyze.
+
+- **Manually editing the pivot table** – Nothing should be entered directly into the pivot table—all changes are made in the original table.
+
+- **Forgotten refresh** – After changing data, you need to click Refresh for the results to be accurate.
 
 ```{infonote}
-Анализа података коришћењем пивот табела и графика не само да штеди време и смањује грешке, већ нам омогућава да тренутно уочимо важне информације, донесемо прецизне закључке и ефикасно представимо резултате чак и из веома великог скупа података.
+Data analysis using pivot tables and charts not only saves time and reduces errors, but also allows us to instantly spot important information, draw precise conclusions, and efficiently present results even from very large data sets.
 ```
