@@ -1,65 +1,67 @@
-# Прилози
 
-## Питања за ученике о сарадњи током израде задатка
+# Attachments
 
-### Функционисање групе (1–5)
+## Questions for Students About Collaboration During the Task
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+### Group Functioning (1–5)
 
-✔️ Сви чланови групе су активно учествовали у задатку  
-✔️ Слушали смо једни друге и поштовали свачије идеје  
-✔️ Одговорности смо поделили равноправно  
-✔️ Одлуке смо доносили заједно као тим  
-✔️ Пружали смо подршку једни другима када је некоме била потребна помоћ  
+*(1 – strongly disagree | 5 – strongly agree)*
 
-### Моје учешће - питања за ученике (1–5)
+✔️ All group members actively participated in the task  
+✔️ We listened to each other and respected everyone’s ideas  
+✔️ We shared responsibilities equally  
+✔️ We made decisions together as a team  
+✔️ We supported each other when someone needed help  
 
-*(1 – уопште се не слажем | 5 – у потпуности се слажем)*
+### My Participation – Questions for Students (1–5)
 
-✔️ Износио/износила сам своје идеје и мишљење  
-✔️ Учествовао/учествовала сам у изради пивот табела  
-✔️ Учествовао/учествовала сам у изради графикона  
-✔️ Учествовао/учествовала сам у припреми закључака  
-✔️ Учествовао/учествовала сам у презентацији наше групе  
+*(1 – strongly disagree | 5 – strongly agree)*
 
-### Чек-листа за наставнике о сарадњи током израде задатка
+✔️ I shared my ideas and opinions  
+✔️ I participated in creating pivot tables  
+✔️ I participated in creating charts  
+✔️ I participated in preparing conclusions  
+✔️ I participated in presenting our group’s work  
 
-✔️ сви ученици имају улогу  
-✔️ постоји договор унутар групе  
-✔️ ученици образлажу своје одлуке  
-✔️ помажу једни другима  
-✔️ равномерно користе дигитални алат
+### Teacher’s Checklist on Collaboration During the Task
 
-### Предлози питања за анкету о здравим навикама 
+✔️ All students have a role  
+✔️ There is agreement within the group  
+✔️ Students explain their decisions  
+✔️ They help each other  
+✔️ They use the digital tool equally
 
-(**НАПОМЕНА: Анкета мора бити потпуно АНОНИМНА!**)
 
-- Пол
-- Који си разред?
-- Колико сати у просеку спаваш у току ноћи?
-- Колико се одморно осећаш у току дана? (1-5)
-- Колико времена дневно користиш телефон?
-- Колико сати укупно проведеш гледајући у екран током дана? (ТВ + рачунар + телефон, унеси број сати)
-- Када најчешће користиш телефон?
-- За шта најчешће користиш телефон?
-- Да ли се бавиш спортом / редовно вежбаш?
-- Ако вежбаш, колико сати? (унеси број сати у току недеље)
-- Како се најчешће крећеш током дана?
-- Колико често возиш бицикл? (унеси број пута у току недеље)
-- Колико се дневно крећеш? (унеси број минута)
-- Да ли редовно доручкујеш?
-- Да ли имаш кућног љубимца?
-- Колико порција воћа у просеку поједеш у току недеље?
-- Колико често једеш слаткише или грицкалице? (унеси број пута у току недеље)
-- Колико воде попијеш дневно? (у литрама)
-- Колико се често смејеш? (1-5)
-- Како би оценио/оценила своје најчешће расположење? (1-5)
-- често се виђаш са другарима изван школе? (1-5)
-- Коју би навику највише волео/волела да побољшаш?
-- Колико важним сматраш за здрав и квалитетнији живот [довољно сна]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [мање времена на телефону]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [здрава исхрана]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [редовна физичка активност]? (1-5)
-- Колико важним сматраш за здрав и квалитетнији живот [добро расположење]? (1-5)
-- Да ли често боравиш у природи?
+### Suggested Questions for a Healthy Habits Survey
+
+(**NOTE: The survey must be completely ANONYMOUS!**)
+
+- Gender
+- What grade are you in?
+- How many hours do you sleep on average at night?
+- How rested do you feel during the day? (1-5)
+- How much time per day do you use your phone?
+- How many hours in total do you spend looking at a screen during the day? (TV + computer + phone, enter number of hours)
+- When do you most often use your phone?
+- What do you most often use your phone for?
+- Do you play sports / exercise regularly?
+- If you exercise, how many hours? (enter number of hours per week)
+- How do you most often get around during the day?
+- How often do you ride a bicycle? (enter number of times per week)
+- How much do you move daily? (enter number of minutes)
+- Do you eat breakfast regularly?
+- Do you have a pet?
+- How many servings of fruit do you eat on average per week?
+- How often do you eat sweets or snacks? (enter number of times per week)
+- How much water do you drink daily? (in liters)
+- How often do you laugh? (1-5)
+- How would you rate your most common mood? (1-5)
+- Do you often meet friends outside of school? (1-5)
+- Which habit would you most like to improve?
+- How important do you consider [enough sleep] for a healthy and better quality life? (1-5)
+- How important do you consider [less time on the phone] for a healthy and better quality life? (1-5)
+- How important do you consider [healthy diet] for a healthy and better quality life? (1-5)
+- How important do you consider [regular physical activity] for a healthy and better quality life? (1-5)
+- How important do you consider [good mood] for a healthy and better quality life? (1-5)
+- Do you often spend time in nature?
 
