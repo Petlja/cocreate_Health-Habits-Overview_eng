@@ -1,42 +1,43 @@
-# Креативни задатак - дизајнирајте кампању!
+
+# Creative Task – Design a Campaign!
+
+## Task Description
+
+After conducting a survey on students’ healthy habits and analyzing the collected data, your task is to select one result and present it through a creative campaign.
+
+- Analyze the data using pivot tables and charts and highlight one or more facts you find important
+- Create a slogan (short, clear, positive)
+- Make an infographic
+- Present the result to the class
 
 
-## Опис задатка
-
-Након спроведене анкете о здравим навикама ученика и анализе прикупљених података, ваш задатак је да изаберете један резултат и прикажете га кроз креативну кампању.
-
-- Анализирајте податке применом пивот табела и графика и издвојте једну или више чињеница које сматрате значајним
-- Осмислите слоган (кратак, јасан, позитиван)
-- Направите инфографику
-- Презентујте резултат одељењу
-
-![Kampanja](kampanja.png)
+![Campaign](kampanja.png)
 
 ```{infonote}
-Подсетник за добру сарадњу у групи
+Reminder for Good Group Collaboration
 
-- Слушамо једни друге.
-- Свако има прилику да допринесе.
-- Делимо задатке договором.
-- Одлуке доносимо заједно.
-- Помажемо једни другима.
+- We listen to each other.
+- Everyone has a chance to contribute.
+- Tasks are shared by agreement.
+- Decisions are made together.
+- We help each other.
 ```
 
-## Савети за добар визуелни приказ података (инфографику)
-- Боје: 2–3 максимално (црвена, зелена, плава/сива)
-- Типографија: слоган највећи, бројеви средње величине, објашњење најмање
-- График: увек укључити пивот график
-- Позив на акцију: конкретан корак
-
-## Критеријуми оцењивања
-- Тачност података – 30 бодова
-- Јасноћа поруке – 25 бодова
-- Креативност слогана – 20 бодова
-- Визуелни дизајн – 15 бодова
-- Презентација – 10 бодова
+## Tips for a Good Visual Data Display (Infographic)
+- Colors: 2–3 maximum (red, green, blue/gray)
+- Typography: slogan largest, numbers medium size, explanation smallest
+- Chart: always include a pivot chart
+- Call to action: a concrete step
 
 
-## Линк ка месту за постављање урађених инфографика
+## Evaluation Criteria
+- Data accuracy – 30 points
+- Message clarity – 25 points
+- Slogan creativity – 20 points
+- Visual design – 15 points
+- Presentation – 10 points
 
-[Погледај радове или постави свој рад](https://shorturl.at/wG4WQ)
+## Link to Submit Your Infographics
+
+[View works or submit your own](https://shorturl.at/wG4WQ)
 

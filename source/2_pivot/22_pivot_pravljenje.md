@@ -1,72 +1,78 @@
-# Како направити пивот табелу?
+# How to Create a Pivot Table?
 
 ```{infonote}
-**Четири основна елемента пивот табеле**
+**The Four Basic Elements of a Pivot Table**
 
-- **Редови (*Rows*)** - Категорије које се приказују са леве стране табеле.
-- **Колоне (*Columns*)** - Категорије које се приказују у горњем делу табеле.
-- **Вредности (*Values*)** - Бројеви који се израчунавају (збир, број, просек…).
-- **Филтери (*Filters*)** - Омогућавају приказ само дела података.
+- **Rows** – Categories displayed on the left side of the table.
+- **Columns** – Categories displayed at the top of the table.
+- **Values** – Numbers that are calculated (sum, count, average, etc.).
+- **Filters** – Allow you to display only part of the data.
 ```
 
-## Креирање пивот табеле - корак по корак
 
-### Корак 1: Означите табелу са подацима
-Кликните на било коју ћелију табеле и на тастатури притисните комбинацију тастера *Ctrl + A*
+## Creating a Pivot Table – Step by Step
 
-![Korak 1](images/pivot1_sr.png)
 
-### Корак 2: Покрените креирање пивот табеле
-Кликните на *Insert* (1), *PivotТable* (2) и изаберите опцију *From Table/Range* (3)
+### Step 1: Select the Data Table
+Click any cell in the table and press *Ctrl + A* on your keyboard.
 
-![Korak 2](images/pivot2_sr.png)
+![Step 1](images/pivot1_sr.png)
 
-### Корак 3: Изаберите где желите да се нађе ваша пивот табела
-Можете да изаберете нови радни лист (*New Worksheet*) или локацију на истом радном листу (*Existing Worksheet*) (4) (у том случају потребно је да кликнете на ћелију у оквиру које ће се наћи горњи леви угао ваше пивот табеле) (5). Потврдите кликом на *Ok*. (6)
 
-![Korak 3](images/pivot3_sr.png)
+### Step 2: Start Creating the Pivot Table
+Click on *Insert* (1), *PivotTable* (2), and select *From Table/Range* (3).
 
-### Корак 4: Упознајте едитор пивот табела
-Подешавања пивот табеле вршите превлачењем поља (7) у одређене зоне (8).
+![Step 2](images/pivot2_sr.png)
 
-![Korak 4](images/pivot4_sr.png)
 
-### Корак 5: Додајте редове (*Rows*) и вредности (*Values*)
-За први пример из увода у зону *Rows* превукли смо поље *воће*. У зону *Values* превукли смо поље *количина [kg]*
+### Step 3: Choose Where to Place Your Pivot Table
+You can choose a new worksheet (*New Worksheet*) or a location on the same worksheet (*Existing Worksheet*) (4) (in that case, click the cell where the top left corner of your pivot table will be) (5). Confirm by clicking *Ok*. (6)
 
-![Korak 5](images/pivot5_sr.png)
+![Step 3](images/pivot3_sr.png)
 
+
+### Step 4: Get to Know the Pivot Table Editor
+You set up the pivot table by dragging fields (7) into specific zones (8).
+
+![Step 4](images/pivot4_sr.png)
+
+
+### Step 5: Add Rows and Values
+For the first example from the introduction, we dragged the *fruit* field into the *Rows* zone. We dragged the *quantity [kg]* field into the *Values* zone.
+
+![Step 5](images/pivot5_sr.png)
 
 ```{infonote}
-Начин израчунавања у области Values можемо променити преко опције Value Field Settings. Поред подразумеваног збира (Sum), доступни су и Average (просек), Count (број уноса), Min и Max. Важно је знати да ће, уколико се у област Values постави текстуално поље, пивот табела уместо збира аутоматски приказати број појављивања тог текста (Count).
+The calculation method in the Values area can be changed via the Value Field Settings option. In addition to the default Sum, you can also choose Average, Count, Min, and Max. Note that if you place a text field in the Values area, the pivot table will automatically show the count of that text instead of the sum.
 ```
 
-### Корак 7: Додајте колоне (опционо)
-Табелу у којој се види и на који начин су купци плаћали добили смо додавањем поља *начин плаћања* у зону Колоне (*Columns*) (10)
 
-![Korak 6](images/pivot6_sr.png)
+### Step 6: Add Columns (Optional)
+The table showing how customers paid was created by adding the *payment method* field to the Columns zone (10).
+
+![Step 6](images/pivot6_sr.png)
 
 ```{infonote}
-Уколико се деси да вам се затворио прозор са десне стране који омогућава подешавање приказа пивот табеле, можете га поново отворити тако што ћете кликнути на било коју ћелију пивот табеле и изабрати опцију Show field list.
+If the window on the right for adjusting the pivot table display closes, you can reopen it by clicking any cell in the pivot table and selecting Show field list.
 ```
-### Корак 8: Додајте филтере (опционо)
-Додавање филтера омогућиће вам да из велике количине података брзо издвојите и прикажете само оне вредности које су вам у датом тренутку потребне, без измене почетне табеле и додатних прорачуна. 
+### Step 7: Add Filters (Optional)
+Adding filters will allow you to quickly extract and display only the values you need from a large amount of data, without changing the original table or making additional calculations.
 
 ```{infonote}
-Иако је пивот табела повезана са оригиналном табелом, измене у њој се не ажурирају аутоматски. Након сваке измене потребно је десним кликом на пивот табелу изабрати опцију Refresh, како би се сви резултати освежили.
+Although the pivot table is linked to the original table, changes in it are not updated automatically. After each change, right-click the pivot table and select Refresh to update all results.
 ```
-## Пивот графикон
+## Pivot Chart
 
-Подаци из пивот табеле могу се приказати и графички. На тај начин резултати постају прегледнији и лакше се уочавају разлике и односи.
+Data from the pivot table can also be displayed graphically. This way, results become clearer and differences and relationships are easier to spot.
 
-Пивот графикон се прави на следећи начин:
+A pivot chart is created as follows:
 
-Кликните унутар пивот табеле и из менија изаберите опцију *PivotChart*. Одаберите тип графикона и потврдите избор.
+Click inside the pivot table and from the menu select *PivotChart*. Choose the chart type and confirm your selection.
 
-![Pivot grafikon](images/chart1_sr.png)
+![Pivot chart](images/chart1_sr.png)
 
 ```{infonote}
-Графикон је повезан са пивот табелом, што значи да се свака промена у табели аутоматски приказује и на графикону. Приликом графичког приказа, предности примене филтера посебно долазе до изражаја.
+The chart is linked to the pivot table, which means that any change in the table is automatically shown in the chart. When displaying graphically, the advantages of using filters become especially apparent.
 ```
 
-![Pivot grafikon](images/chart2_sr.png)
+![Pivot chart](images/chart2_sr.png)
