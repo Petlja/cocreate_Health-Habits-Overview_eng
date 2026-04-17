@@ -1,25 +1,26 @@
 ﻿---
 status: exclude
-alias: cocreate-health-habits
-short_description: Анализа података о здравим навикама
+alias: cocreate-health-habits_en
+lang: en
+short_description: Analysis of healthy habits data
 long_description: >
-    <p>Овај курс уводи ученике у анализу података помоћу пивот табела и пивот графикона. Кроз практичан рад на рачунару, ученици уче како да организују, групишу, филтрирају и визуелно прикажу податке, као и како да из њих изведу закључке. Током курса ученици ће уочити разлике између обичних и пивот табела и графика и постепено развијати сигурност у анализи података кроз сараднички рад..</p>
+    <p>This course introduces students to data analysis using pivot tables and pivot charts. Through hands-on computer work, students learn how to organize, group, filter, and visually present data, as well as how to draw conclusions from it. During the course, students will notice the differences between regular and pivot tables and charts, and gradually build confidence in data analysis through collaborative work.</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
     <br>This course was published by Petlja Foundation under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - Шта је пивот табела и по чему се разликује од обичне табеле
-    - Како се креира и подешава пивот табелla
-    - Како се користе редови, колоне, вредности и филтери
-    - Како се креира пивот график и визуелизују резултати
-    - Како се тумаче подаци и формулишу закључци
-    - Како се сараднички анализирају подаци и представљају резултати
+    - What a pivot table is and how it differs from a regular table
+    - How to create and set up a pivot table
+    - How to use rows, columns, values, and filters
+    - How to create a pivot chart and visualize results
+    - How to interpret data and formulate conclusions
+    - How to collaboratively analyze data and present results
 
 
 needed: 
-    - Рачунар са инсталираним програмом Microsoft Excel или приступом Google Sheets
+    - A computer with Microsoft Excel installed or access to Google Sheets
 useful:
     - Python 3.12 documentation: https://docs.python.org/3.12/
 ---
