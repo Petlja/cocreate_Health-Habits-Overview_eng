@@ -1,41 +1,40 @@
-﻿# О лекцији
+﻿# About the Lesson
 
-## Циљеви, исходи и време реализације
+## Goals, Outcomes, and Duration
 
-**Потребно време:** 2 школска часа (90 минута)
+**Required time:** 2 school periods (90 minutes)
 
-### Циљеви
-- Развијање способности анализе података помоћу пивот табела у програму Microsoft Excel.
-- Стицање вештина визуелизације података помоћу графикона.
-- Вредновање и избор најефикаснијих начина за визуелно представљање података.
-- Унапређивање комуникацијских вештина и тимског рада кроз заједничко решавање проблема.
-- Увежбавање јасног и самоувереног представљања резултата групног рада.
+### Goals
+- Develop the ability to analyze data using pivot tables in Microsoft Excel.
+- Acquire skills for data visualization using charts.
+- Evaluate and choose the most effective ways to visually present data.
+- Improve communication skills and teamwork through collaborative problem solving.
+- Practice clear and confident presentation of group work results.
 
-### Исходи
-До краја ове лекције ученици ће бити у стању да:
-- креирају и тумаче пивот табеле у програму Microsoft Excel ради организовања и анализе података,
-- направе одговарајуће графиконе (нпр. стубичасти, тракасти, секторски) за визуелни приказ сажетих података,
-- ефикасно сарађују у групи, деле одговорности и доприносе заједничком задатку,
-- уважавају различита мишљења и негују конструктивну комуникацију у тиму,
-- јасно и самоуверено представе групне закључке уз подршку визуелизација података.
+### Outcomes
+By the end of this lesson, students will be able to:
+- create and interpret pivot tables in Microsoft Excel for organizing and analyzing data,
+- make appropriate charts (e.g., column, bar, pie) for visualizing summarized data,
+- collaborate effectively in a group, share responsibilities, and contribute to a common task,
+- respect different opinions and foster constructive communication within the team,
+- clearly and confidently present group conclusions supported by data visualizations.
 
-У раду са подацима често није највећи изазов прикупљање, већ разумевање њиховог значења. Табеле често садрже и стотине редова, али одговоре на питања која нас заиста занимају не видимо увек на први поглед. Да бисмо уочили обрасце, упоредили вредности и донели закључке, потребан нам је начин да податке брзо организујемо и посматрамо из различитих углова. 
+When working with data, the biggest challenge is often not collecting it, but understanding its meaning. Tables often contain hundreds of rows, but the answers to the questions we really care about are not always immediately visible. To spot patterns, compare values, and draw conclusions, we need a way to quickly organize data and view it from different perspectives.
 
-Активност H2O (*Health Habits Observation*) има за циљ да кроз пример који вам је близак покаже како податке можете да претворите у корисне информације.  о навикама у исхрани, вежбању, коРадићете са стварним подацимаришћењу телефона, дружењу и спавању, које ћете сами прикупити и користити пивот табеле и пивот графиконе како бисте их анализирали и визуализовали (упитник за прикупљање података налази се у последњем блоку – Прилози). На тај начин видећете како исти скуп података може да одговори на различита питања - у зависности од тога како га организујемо.
+The H2O (*Health Habits Observation*) activity aims to show you, through a familiar example, how you can turn data into useful information. You will work with real data about habits in eating, exercising, phone use, socializing, and sleeping, which you will collect yourselves and use pivot tables and pivot charts to analyze and visualize (the questionnaire for data collection is in the last section – Attachments). In this way, you will see how the same data set can answer different questions—depending on how we organize it.
 
-
-![Uvodna slika](images/uvod.png)
+![Intro image](images/uvod.png)
     
-Поред техничке вештине, ова активност треба да послужи и за развијање способности аналитичког размишљања попут постављања питања, избора начина приказа података и тумачења резултата. У савременом свету, где се одлуке све чешће заснивају на подацима, разумевање оваквих алата представља важан део дигиталне писмености.
+Besides technical skills, this activity is also intended to develop analytical thinking abilities such as asking questions, choosing ways to present data, and interpreting results. In today's world, where decisions are increasingly based on data, understanding such tools is an important part of digital literacy.
 
-У наставку ћете научити:
-- шта је пивот табела и по чему се разликује од обичне табеле,
-- како се креира пивот табела у Excel-у,
-- како се подаци анализирају и тумаче,
-- како се резултати приказују помоћу пивот графикона.
+In this lesson you will learn:
+- what a pivot table is and how it differs from a regular table,
+- how to create a pivot table in Excel,
+- how to analyze and interpret data,
+- how to present results using pivot charts.
 
 ```{infonote}
-Циљ ове лекције није само да направите пивот табелу, већ да разумете како подаци постају информација.
+The goal of this lesson is not just to make a pivot table, but to understand how data becomes information.
 ```
 
 

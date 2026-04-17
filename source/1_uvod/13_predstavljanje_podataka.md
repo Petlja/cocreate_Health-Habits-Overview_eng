@@ -1,47 +1,47 @@
-# Представљање података
+# Data Presentation
 
-## Обична табела
+## Regular Table
 
-Најједноставнији начин да уредимо и прикажемо податке јесте да их прикажемо **табелом**.
-Редови представљају појединачне ставке (на пример производе, запослене или месеце), а колоне њихове особине (продата количина, остварен приход и сл.).
+The simplest way to organize and present data is to use a **table**.
+Rows represent individual items (for example, products, employees, or months), and columns represent their attributes (quantity sold, revenue, etc.).
 
-Табеле су посебно корисне када:
+Tables are especially useful when:
 
-- желимо да прикажемо прецизне вредности,
+- we want to show precise values,
 
-- упоређујемо више категорија истовремено,
+- we compare multiple categories at the same time,
 
-- тражимо конкретан податак.
+- we are looking for a specific piece of data.
 
-Узмимо за пример мало предузеће које продаје школски прибор. На крају недеље направљена је табела у којој пише колико је продато свезака, оловака, ранчева и лењира. Док су ти подаци само појединачни рачуни, тешко можемо да стекнемо утисак о продаји. Али када их саберемо и прикажемо у табели, лако долазимо до закључка који се производ највише продаје, а који најмање.
+Let's take as an example a small business that sells school supplies. At the end of the week, a table is made showing how many notebooks, pencils, backpacks, and rulers were sold. While these data are just individual receipts, it's hard to get an impression of sales. But when we sum them up and present them in a table, it's easy to conclude which product sells the most and which the least.
 
-На пример: продато је 140 свезака, 113 оловака, 20 ранчева и 21 лењир. Све је јасно и прегледно на једном месту.
+For example: 140 notebooks, 113 pencils, 20 backpacks, and 21 rulers were sold. Everything is clear and easy to see in one place.
 
-![Obična tabela](images/table_sr.png)
+![Regular table](images/table_sr.png)
 
-## Графикони — подаци који се виде
+## Charts — Data You Can See
 
-Иако табела садржи тачне бројеве, много брже разумемо податке када их прикажемо као **графикон**.
+Although a table contains exact numbers, we understand data much faster when we present it as a **chart**.
 
-Разликујемо неколико врста графикона. Основни и најчешће коришћени су:
+There are several types of charts. The main and most commonly used are:
 
-- **Стубичасти графикон** (*column chart*) нам омогућава да одмах уочимо који се производ најбоље продаје.
+- **Column chart** allows us to immediately see which product sells best.
 
-- **Пита (кружни) графикон** (*pie chart*) показује колики је удео сваког производа у укупној продаји.
+- **Pie chart** shows the share of each product in total sales.
 
-- **Линијски графикон** (*line chart*) бисмо користили када бисмо пратили како се продаја мењала из недеље у недељу или из месеца у месец.
+- **Line chart** would be used if we were tracking how sales changed from week to week or month to month.
 
-![Grafici](images/graph_sr.png)
+![Charts](images/graph_sr.png)
 
 ```{infonote}
-**Поређење категорија → стубичасти графикон**
+**Category comparison → column chart**
 
-**Део у односу на целину → пита графикон**
+**Part-to-whole relationship → pie chart**
 
-**Промена кроз време → линијски графикон**
+**Change over time → line chart**
 ```
 
-**Ако нисте сигурни - стубичасти графикон је скоро увек добар избор!**
+**If you're not sure—a column chart is almost always a good choice!**
 
 
 

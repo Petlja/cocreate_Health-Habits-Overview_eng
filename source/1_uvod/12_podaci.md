@@ -1,21 +1,21 @@
-# Прикупљање података
+# Data Collection
 
-## Одакле долазе подаци?
+## Where Does Data Come From?
 
-Пре него што започнемо било какву анализу, први корак је прикупљање података. Без квалитетних података не можемо доћи ни до поузданих закључака. Постоји неколико основних начина да до њих дођемо:
+Before we start any analysis, the first step is data collection. Without quality data, we cannot reach reliable conclusions. There are several basic ways to obtain data:
 
-- **Анкета** (упитник) - истa питања постављамо већем броју људи и бележимо њихове одговоре. Ово је најчешћи метод у друштвеним истраживањима.
+- **Survey** (questionnaire) – we ask the same questions to a larger group of people and record their answers. This is the most common method in social research.
 
-- **Посматрање** - пратимо шта се дешава и бележимо појаве без утицаја на њих (на пример, бројимо колико особа улази у просторију).
+- **Observation** – we observe what happens and record occurrences without influencing them (for example, counting how many people enter a room).
 
-- **Мерење** - користимо инструменте како бисмо добили тачне вредности (температура, висина, маса… ).
+- **Measurement** – we use instruments to obtain exact values (temperature, height, weight, etc.).
 
-- **Експеримент** - намерно мењамо један фактор и пратимо како се то одражава на резултате.
+- **Experiment** – we intentionally change one factor and observe how it affects the results.
 
-![Prikupljanje podataka](images/podaci.png)
+![Data collection](images/podaci.png)
 
-Током прикупљања података, најчешће добијамо велику количину појединачних вредности, које саме по себи још увек немају јасно значење. У том облику тешко је да их разумемо, упоредимо или из њих уочимо неке правилности. Зато је важно да их добро организујемо и јасно представимо. 
+During data collection, we usually obtain a large amount of individual values, which by themselves still do not have a clear meaning. In that form, it is difficult to understand, compare, or notice any patterns in them. That is why it is important to organize and present them clearly.
 
 ```{infonote}
-Тек када податке средимо и прикажемо на прегледан начин, они почињу да „говоре“ и постају основа за закључивање.
+Only when we organize and present data in a clear way do they start to "speak" and become the basis for drawing conclusions.
 ```
