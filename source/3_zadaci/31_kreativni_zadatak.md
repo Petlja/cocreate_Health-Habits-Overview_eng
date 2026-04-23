@@ -37,7 +37,4 @@ Reminder for Good Group Collaboration
 - Visual design – 15 points
 - Presentation – 10 points
 
-## Link to Submit Your Infographics
-
-[View works or submit your own](https://shorturl.at/wG4WQ)
 
