@@ -1,9 +1,9 @@
 # Pivot Tables
 
-A pivot table is one of the most important tools for data analysis in programs like *Microsoft Excel* and *Google Sheets*. It allows us to “pivot” the same data (pivot = to turn) and present it in a new way—to group, count, calculate averages, or compare categories, without changing the original table. Instead of manually counting and making multiple helper tables, a pivot table enables us to get answers quickly, accurately, and clearly.
+A pivot table is one of the most important tools for data analysis in programs like *Microsoft Excel* and *Google Sheets*. It allows us to "pivot" the same data (pivot = to turn) and present it from different perspectives, depending on what we want to find out.
 
 ```{infonote}
-In basketball, a pivot is a player who keeps one foot in place and turns their body to pass the ball in different directions. Similarly, a pivot table uses the same data but “turns” and reorganizes it so we can view it from different angles, depending on what we want to find out.
+In basketball, a pivot is a player who keeps one foot in place and turns their body to pass the ball in different directions. Similarly, a pivot table uses the same data but "turns" and reorganizes it so we can view it from different angles, depending on what we want to learn.
 ```
 An employee in a fruit store records every sale in a table each day. For each purchase, she notes the following data:
 
@@ -13,7 +13,7 @@ These are raw data. From them, we cannot immediately get answers to questions li
 
 ## The Difference Between a Regular and a Pivot Table
 
-In a regular table, we can see each individual sale, but if we want to know, for example, the total quantity sold of each type of fruit, we would have to manually find all the rows with apples and sum the quantities, then bananas, then oranges... With a larger number of rows, this takes time and errors are likely.
+In a regular table, we can see each individual sale, but if we want to know, for example, the total quantity sold of each type of fruit, we would have to manually find all the rows with apples and sum the quantities, then bananas, then oranges... With a larger number of rows, this takes time and is easy to get wrong.
 
 **A pivot table automatically organizes and sums the data.** For example:
 
