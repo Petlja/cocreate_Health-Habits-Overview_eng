@@ -1,5 +1,5 @@
 
-project = 'PLCT Template'
+project = 'Analysis of healthy habits data'
 copyright = '2025, Fondacija Petlja'
 author = 'Fondacija Petlja'
 
