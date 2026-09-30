@@ -2,7 +2,7 @@
 status: exclude
 alias: cocreate-health-habits_en
 lang: en
-short_description: Analysis of healthy habits data
+short_description: Data Analysis and Visualisation
 long_description: >
     <p>This course introduces students to data analysis using pivot tables and pivot charts. Through hands-on computer work, students learn how to organize, group, filter, and visually present data, as well as how to draw conclusions from it. During the course, students will notice the differences between regular and pivot tables and charts, and gradually build confidence in data analysis through collaborative work.</p>
     <p>
