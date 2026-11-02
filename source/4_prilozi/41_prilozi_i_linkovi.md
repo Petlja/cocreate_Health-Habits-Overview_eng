@@ -1,5 +1,5 @@
 
-# Attachments
+# Appendix
 
 ## Questions for Students About Collaboration During the Task
 
