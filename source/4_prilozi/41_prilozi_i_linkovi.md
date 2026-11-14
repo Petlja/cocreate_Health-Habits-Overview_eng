@@ -1,37 +1,6 @@
 
 # Appendix
 
-## Questions for Students About Collaboration During the Task
-
-### Group Functioning (1–5)
-
-*(1 – strongly disagree | 5 – strongly agree)*
-
-✔️ All group members actively participated in the task  
-✔️ We listened to each other and respected everyone’s ideas  
-✔️ We shared responsibilities equally  
-✔️ We made decisions together as a team  
-✔️ We supported each other when someone needed help  
-
-### My Participation – Questions for Students (1–5)
-
-*(1 – strongly disagree | 5 – strongly agree)*
-
-✔️ I shared my ideas and opinions  
-✔️ I participated in creating pivot tables  
-✔️ I participated in creating charts  
-✔️ I participated in preparing conclusions  
-✔️ I participated in presenting our group’s work  
-
-### Teacher’s Checklist on Collaboration During the Task
-
-✔️ All students have a role  
-✔️ There is agreement within the group  
-✔️ Students explain their decisions  
-✔️ They help each other  
-✔️ They use the digital tool equally
-
-
 ### Suggested Questions for a Healthy Habits Survey
 
 (**NOTE: The survey must be completely ANONYMOUS!**)

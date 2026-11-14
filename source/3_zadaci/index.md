@@ -7,5 +7,6 @@ status: exclude
 :maxdepth: 1
 
 31_kreativni_zadatak
-32_kviz
+32_evaluacija
+33_kviz
 ```
